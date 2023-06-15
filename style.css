@@ -10,7 +10,7 @@
     background-color:white;
     box-shadow: 5px 3px 2px;
     display: inline-block;
-    bottom: 30px;
+    
 
 }
 .container2{
@@ -21,6 +21,7 @@
     background-color:white;
     box-shadow: 5px 3px 2px;
     display: inline-block;
+    position: relative;
     bottom: 40px;
     
 }
